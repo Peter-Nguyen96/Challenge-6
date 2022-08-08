@@ -3,7 +3,8 @@ Purpose:
 Create a real-time weather tracking, and route planning program to major cities and nearby hotels for a travel agency.  Real_time weather data provided by OpenWeatherMap API and map data provided by google maps API.
 
 # To run the program, make sure to follow the steps below if using jupyter notebook.  This program will not work in VS Studio Code.
-In terminal
+In terminal:
+
 conda install -c conda-forge gmaps
 pip install gmaps
 jupyter nbextension enable --py --sys-prefix gmaps
