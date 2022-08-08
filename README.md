@@ -24,3 +24,4 @@ Google API key
 goo_API_key="ENTER KEY"
 
 Place config file in main folder, Vacation_Itinerary, and Vacation_Search folder (any folder with an .ipynb jupyter notebook source code file).
+
