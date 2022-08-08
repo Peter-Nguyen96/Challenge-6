@@ -22,9 +22,9 @@ jupyter notebook
 config.py files
 add the following to a config.py file and run the code, replace 'ENTER KEY' with your api key
 
-OpenWeatherMap API key
+
 weather_api_key="ENTER KEY"
-Google API key
+
 goo_API_key="ENTER KEY"
 
 Place config file in main folder, Vacation_Itinerary, and Vacation_Search folder (any folder with an .ipynb jupyter notebook source code file).
